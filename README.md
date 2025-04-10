@@ -35,9 +35,6 @@ Aumentei em até **100% o volume de dados coletados** com melhorias significativ
 🔹 [**Sistema de Gestão de Usuários**](https://github.com/Webeross/gestao_usuarios)  
 Aplicação web para cadastro, autenticação e controle de usuários com SQLAlchemy, Flask, JWT e PostgreSQL.
 
-🔹 [**Crawlers e ETLs**](https://github.com/Webeross)  
-Repositórios com scrapers otimizados para coleta de grandes volumes de dados, integração com APIs e análise.
-
 ---
 
 ### 📫 Vamos conversar?
