@@ -33,7 +33,7 @@ Aumentei em até **100% o volume de dados coletados** com melhorias significativ
 ### 💼 Projetos em Destaque
 
 🔹 [**Sistema de Gestão de Usuários**](https://github.com/Webeross/gestao_usuarios)  
-Aplicação web para cadastro, autenticação e controle de usuários com SQLAlchemy, Flask, JWT e PostgreSQL.
+Aplicação web para cadastro, autenticação e controle de usuários com NOSQL, Flask, Python, HTML e JavaScript.
 
 ---
 
