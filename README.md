@@ -10,13 +10,11 @@
 
 Sou tecnólogo em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor back-end com foco em automação de dados e web scraping. Tenho experiência em:
 
-- 🐍 Python, RegEx e APIs REST
+- 🐍 Python, Flask, PandasAPIs e REST
 - 🐘 PostgreSQL para persistência de dados
-- ⚙️ Estruturação de crawlers robustos e escaláveis
+- ⚙️ Estruturação de crawlers
 - 📈 Soluções de precificação com cálculo dinâmico de frete e monitoramento de preços
-
-Aumentei em até **100% o volume de dados coletados** com melhorias significativas na precisão e desempenho. Trabalho com entregas contínuas, alinhadas com o time, reforçando confiabilidade e escalabilidade.
-
+  
 ---
 
 ### 🚀 Tecnologias & Ferramentas
@@ -44,4 +42,3 @@ Aplicação web para cadastro, autenticação e controle de usuários com NOSQL,
 
 ---
 
-<p align="center">✨ Em constante evolução. Sempre em busca de desafios que me façam crescer 🚀</p>
