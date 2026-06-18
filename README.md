@@ -1,32 +1,33 @@
 # Eduardo Weber
 
-Desenvolvedor Back-End especializado em Python, Engenharia de Dados e Web Scraping. Experiência no desenvolvimento de crawlers resilientes para extração de dados em larga escala, automação de pipelines e modelagem de bancos de dados relacionais.
+Desenvolvedor Back-End especializado em Python, Engenharia de Dados e Web Scraping. Experiência no desenvolvimento de pipelines de ETL, tratamento e manipulação de dados em larga escala, além de estruturação e otimização de queries em bases de dados relacionais.
 
 ---
 
 ### 🧠 Core Competencies
 
-- **Web Scraping & Automação:** Construção de crawlers e scrapers robustos utilizando Playwright, BeautifulSoup e Selenium para captura de dados estruturados e não estruturados.
-- **Engenharia de Dados & Back-End:** Desenvolvimento de APIs estruturadas, automação de fluxos de dados, rotinas de monitoramento e integração de serviços B2B.
-- **Bancos de Dados:** Modelagem, otimização de queries, gerenciamento de schemas e persistência de dados utilizando PostgreSQL.
+- **Engenharia de Dados & ETL:** Construção de pipelines robustos para ingestão, limpeza, transformação e enriquecimento de dados (processos ETL) provenientes de múltiplas fontes.
+- **Análise & Tratamento de Dados:** Manipulação avançada, consolidação de dados estruturados e análise de métricas utilizando a biblioteca Pandas.
+- **Web Scraping & Automação:** Desenvolvimento de crawlers e scrapers resilientes (Playwright, BeautifulSoup, Scrapy) preparados para contorno de bloqueios e extração volumosa de dados.
+- **Bases de Dados & SQL:** Modelagem de dados, gestão de schemas, escrita de queries complexas e otimização de performance em PostgreSQL.
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-- **Linguagens:** Python
+- **Linguagens & Bibliotecas:** Python, Pandas
 - **Web Scraping:** Playwright, BeautifulSoup, Scrapy
+- **Bases de Dados:** PostgreSQL (Escrita e Otimização de Queries, Schemas)
 - **Frameworks & APIs:** Flask, FastAPI, RESTful APIs
-- **Banco de Dados:** PostgreSQL
-- **Ferramentas & Infra:** Linux, Git, Docker, Ambientes Virtuais (venv/virtualenv)
+- **Ferramentas & Infra:** Linux, Git, Docker, Venv/Virtualenv
 
 ---
 
 ### 💼 Projetos e Atuação Técnica
 
-- **Engines de Captura de Dados:** Desenvolvimento de microsserviços para raspagem e consolidação de dados de mercado, com foco em alta disponibilidade e contorno de bloqueios (bypasses).
-- **Pipelines de Relatórios Customizados:** Arquitetura de soluções para processamento de dados brutos e geração de métricas de monitoramento em tempo real.
-- **Sistemas de Integração:** Desenvolvimento de aplicações para controle de autenticação, fluxos internos e persistência segura de dados.
+- **Pipelines de ETL e Relatórios:** Arquitetura de soluções automatizadas para extração de dados brutos de mercado, tratamento de inconsistências e geração de relatórios consolidados em tempo real.
+- **Engines de Captura de Dados:** Desenvolvimento de microsserviços para raspagem de dados B2B de alta disponibilidade com foco em persistência segura e estruturação para análise posterior.
+- **Otimização de Sistemas:** Refatoração de rotinas de manipulação de dados e melhoria de queries SQL para redução do tempo de execução e consumo de memória.
 
 ---
 
